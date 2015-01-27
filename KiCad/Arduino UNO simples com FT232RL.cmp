@@ -1,0 +1,269 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 02-09-2014 08:32:27
+
+BeginCmp
+TimeStamp = /5320EB5B;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_100nFx63V;
+EndCmp
+
+BeginCmp
+TimeStamp = /51EEEFF3;
+Reference = C3;
+ValeurCmp = 22pF;
+IdModule  = Capacitor_15pF;
+EndCmp
+
+BeginCmp
+TimeStamp = /51EEEFF9;
+Reference = C4;
+ValeurCmp = 22pF;
+IdModule  = Capacitor_15pF;
+EndCmp
+
+BeginCmp
+TimeStamp = /51EEED26;
+Reference = C5;
+ValeurCmp = 10uF;
+IdModule  = Capacitor_10uFx50V_horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = /5322073B;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_100nFx63V;
+EndCmp
+
+BeginCmp
+TimeStamp = /53220C2A;
+Reference = C7;
+ValeurCmp = 10nF;
+IdModule  = Capacitor_100nFx63V;
+EndCmp
+
+BeginCmp
+TimeStamp = /53220891;
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_100nFx63V;
+EndCmp
+
+BeginCmp
+TimeStamp = /5317CCD2;
+Reference = C9;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_100nFx63V;
+EndCmp
+
+BeginCmp
+TimeStamp = /51EEEAFB;
+Reference = CH1;
+ValeurCmp = RESET;
+IdModule  = Chave_tactil_4_terminais_6x6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5321FF7E;
+Reference = D1;
+ValeurCmp = 1N4007;
+IdModule  = Diodo_1A;
+EndCmp
+
+BeginCmp
+TimeStamp = /532213F6;
+Reference = D2;
+ValeurCmp = LIGADO;
+IdModule  = LED3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /532214B3;
+Reference = D3;
+ValeurCmp = TX;
+IdModule  = LED3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /532214D5;
+Reference = D4;
+ValeurCmp = RX;
+IdModule  = LED3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /532B3941;
+Reference = D5;
+ValeurCmp = L;
+IdModule  = LED3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51EEED44;
+Reference = J1;
+ValeurCmp = USB/EXT;
+IdModule  = Barra_pino_estampado_simples_180graus_3x;
+EndCmp
+
+BeginCmp
+TimeStamp = /5322141C;
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = Resistor_0,5W;
+EndCmp
+
+BeginCmp
+TimeStamp = /5320F65E;
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = Resistor_0,5W;
+EndCmp
+
+BeginCmp
+TimeStamp = /51EEEA7C;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = Resistor_0,5W;
+EndCmp
+
+BeginCmp
+TimeStamp = /53221156;
+Reference = R4;
+ValeurCmp = 1K;
+IdModule  = Resistor_0,5W;
+EndCmp
+
+BeginCmp
+TimeStamp = /5322115C;
+Reference = R5;
+ValeurCmp = 1K;
+IdModule  = Resistor_0,5W;
+EndCmp
+
+BeginCmp
+TimeStamp = /532214AB;
+Reference = R6;
+ValeurCmp = 1K;
+IdModule  = Resistor_0,5W;
+EndCmp
+
+BeginCmp
+TimeStamp = /532214CF;
+Reference = R7;
+ValeurCmp = 1K;
+IdModule  = Resistor_0,5W;
+EndCmp
+
+BeginCmp
+TimeStamp = /532B394E;
+Reference = R8;
+ValeurCmp = 1K;
+IdModule  = Resistor_0,5W;
+EndCmp
+
+BeginCmp
+TimeStamp = /51EEED1A;
+Reference = U1;
+ValeurCmp = 7805;
+IdModule  = TO-220_horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = /51EEE477;
+Reference = U2;
+ValeurCmp = ATMEGA368P-PU;
+IdModule  = CI28DIP300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5321A7FE;
+Reference = U3;
+ValeurCmp = FT232RL;
+IdModule  = CI28SSOP;
+EndCmp
+
+BeginCmp
+TimeStamp = /531865F1;
+Reference = X1;
+ValeurCmp = Alimentação;
+IdModule  = Conector_entrada_para_fonte;
+EndCmp
+
+BeginCmp
+TimeStamp = /51EEECFD;
+Reference = X2;
+ValeurCmp = USB;
+IdModule  = Conector_USB_tipo_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /53264F1A;
+Reference = X3;
+ValeurCmp = POWER;
+IdModule  = Conector_pino_estampado_simples_180graus_8x;
+EndCmp
+
+BeginCmp
+TimeStamp = /53264F51;
+Reference = X4;
+ValeurCmp = DIGITAL (PWM#);
+IdModule  = Conector_pino_estampado_simples_180graus_10x;
+EndCmp
+
+BeginCmp
+TimeStamp = /5325E93A;
+Reference = X5;
+ValeurCmp = ICSP;
+IdModule  = Barra_pino_estampado_duplo_180graus_3x;
+EndCmp
+
+BeginCmp
+TimeStamp = /53264F42;
+Reference = X6;
+ValeurCmp = ANALOG IN;
+IdModule  = Conector_pino_estampado_simples_180graus_6x;
+EndCmp
+
+BeginCmp
+TimeStamp = /53264F33;
+Reference = X7;
+ValeurCmp = DIGITAL (PWM#);
+IdModule  = Conector_pino_estampado_simples_180graus_8x;
+EndCmp
+
+BeginCmp
+TimeStamp = /532238B2;
+Reference = X8;
+ValeurCmp = Fix1;
+IdModule  = Ilha_furo_120mils;
+EndCmp
+
+BeginCmp
+TimeStamp = /532238E0;
+Reference = X9;
+ValeurCmp = Fix2;
+IdModule  = Ilha_furo_120mils;
+EndCmp
+
+BeginCmp
+TimeStamp = /532238E6;
+Reference = X10;
+ValeurCmp = Fix3;
+IdModule  = Ilha_furo_120mils;
+EndCmp
+
+BeginCmp
+TimeStamp = /532238EC;
+Reference = X11;
+ValeurCmp = Fix4;
+IdModule  = Ilha_furo_120mils;
+EndCmp
+
+BeginCmp
+TimeStamp = /51EEEFED;
+Reference = XTAL1;
+ValeurCmp = 16MHz;
+IdModule  = Cristal;
+EndCmp
+
+EndListe
