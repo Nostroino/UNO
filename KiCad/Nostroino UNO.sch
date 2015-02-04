@@ -39,16 +39,16 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:Arduino UNO simples com FT232RL-cache
+LIBS:Nostroino UNO-cache
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Arduino UNO Simplificado"
+Title "Nostroino UNO"
 Date "2 sep 2014"
 Rev ""
-Comp "André Augusto Andreis"
+Comp "André Augusto Andreis e Diego Volpini"
 Comment1 ""
 Comment2 ""
 Comment3 ""
