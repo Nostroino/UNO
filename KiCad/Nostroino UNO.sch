@@ -1,44 +1,5 @@
-EESchema Schematic File Version 2
-LIBS:aaa_acionamentos
-LIBS:aaa_automacao
-LIBS:aaa_componentes
-LIBS:aaa_conectores
-LIBS:aaa_integrados
-LIBS:aaa_opticos
-LIBS:aaa_power
-LIBS:aaa_predial
-LIBS:aaa_reguladores
-LIBS:aaa_som
-LIBS:power
-LIBS:device
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:special
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 2  date 05/02/2015 13:46:27
+LIBS:Nostroino UNO
 LIBS:Nostroino UNO-cache
 EELAYER 27 0
 EELAYER END
