@@ -1,8 +1,6 @@
-update=Sexta Feira, 11 '11e' Março '11e' 2016 'à22' 14:53:22
+update=Sexta Feira, 11 '11e' Março '11e' 2016 'à27' 20:29:27
 version=1
 last_client=kicad
-[general]
-version=1
 [cvpcb]
 version=1
 NetIExt=net
@@ -59,3 +57,5 @@ version=1
 LibDir=
 [eeschema/libraries]
 LibName1=Nostroino UNO
+[general]
+version=1

@@ -253,7 +253,7 @@
     (pad 12 smd rect (at 7.15 0 90) (size 0.381 1.651) (layers F.Cu F.Paste F.Mask))
     (pad 13 smd rect (at 7.8 0 90) (size 0.381 1.651) (layers F.Cu F.Paste F.Mask))
     (pad 14 smd rect (at 8.45 0 90) (size 0.381 1.651) (layers F.Cu F.Paste F.Mask))
-    (model CI_SMD_SSOP28.wrl
+    (model aaa_circuitos_integrados/CI_SMD_SSOP28.wrl
       (at (xyz 0.166 0.141 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -280,7 +280,7 @@
       (net 6 /RESET))
     (pad 2 thru_hole circle (at 7.62 0 180) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 2 +5V))
-    (model Resistor_0,5W_10K.wrl
+    (model aaa_componentes/Resistor_0,5W_10K.wrl
       (at (xyz 0.15 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -307,7 +307,7 @@
       (net 28 N-0000027))
     (pad 2 thru_hole circle (at 7.62 0) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 31 N-0000033))
-    (model Resistor_0,5W_1K.wrl
+    (model aaa_componentes/Resistor_0,5W_1K.wrl
       (at (xyz 0.15 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -334,7 +334,7 @@
       (net 30 N-0000032))
     (pad 2 thru_hole circle (at 7.62 0) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 32 N-0000034))
-    (model Resistor_0,5W_1K.wrl
+    (model aaa_componentes/Resistor_0,5W_1K.wrl
       (at (xyz 0.15 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -388,7 +388,7 @@
       (net 39 N-000008))
     (pad 2 thru_hole circle (at 7.62 0) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 11 /TX))
-    (model Resistor_0,5W_1K.wrl
+    (model aaa_componentes/Resistor_0,5W_1K.wrl
       (at (xyz 0.15 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -415,7 +415,7 @@
       (net 36 N-000005))
     (pad 2 thru_hole circle (at 7.62 0) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 7 /RX))
-    (model Resistor_0,5W_1K.wrl
+    (model aaa_componentes/Resistor_0,5W_1K.wrl
       (at (xyz 0.15 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -442,7 +442,7 @@
       (net 13 GND))
     (pad 2 thru_hole circle (at 7.62 0) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 12 DTR))
-    (model Resistor_0,5W_1K.wrl
+    (model aaa_componentes/Resistor_0,5W_1K.wrl
       (at (xyz 0.15 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
@@ -479,7 +479,7 @@
       (net 29 N-000003))
     (pad K thru_hole circle (at 7.62 0) (size 2.159 2.159) (drill 0.889) (layers *.Cu *.Mask)
       (net 42 Vin))
-    (model Diodo_1A.wrl
+    (model aaa_componentes/Diodo_1A.wrl
       (at (xyz 0.15 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -546,7 +546,7 @@
       (net 35 N-0000048))
     (pad 2 thru_hole circle (at 5.08 0) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 13 GND))
-    (model Capacitor_15pF.wrl
+    (model aaa_componentes/Capacitor_15pF.wrl
       (at (xyz 0.1 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -578,7 +578,7 @@
       (net 34 N-0000047))
     (pad 2 thru_hole circle (at 5.08 0 180) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 13 GND))
-    (model Capacitor_15pF.wrl
+    (model aaa_componentes/Capacitor_15pF.wrl
       (at (xyz 0.1 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -605,7 +605,7 @@
       (net 33 N-000004))
     (pad 2 thru_hole circle (at 5.08 0 270) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 13 GND))
-    (model Capacitor_100nF_63V.wrl
+    (model "../../Bibliotecas do KiCAD/packages3d/aaa_componentes/Capacitor_100nF_63V.wrl"
       (at (xyz 0.1 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -632,7 +632,7 @@
       (net 12 DTR))
     (pad 2 thru_hole circle (at 5.08 0) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 6 /RESET))
-    (model Capacitor_100nF_63V.wrl
+    (model "../../Bibliotecas do KiCAD/packages3d/aaa_componentes/Capacitor_100nF_63V.wrl"
       (at (xyz 0.1 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -659,7 +659,7 @@
       (net 1 +3.3V))
     (pad 2 thru_hole circle (at 5.08 0) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 13 GND))
-    (model Capacitor_100nF_63V.wrl
+    (model "../../Bibliotecas do KiCAD/packages3d/aaa_componentes/Capacitor_100nF_63V.wrl"
       (at (xyz 0.1 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -686,7 +686,7 @@
       (net 3 /AREF))
     (pad 2 thru_hole circle (at 5.08 0 90) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 13 GND))
-    (model Capacitor_100nF_63V.wrl
+    (model "../../Bibliotecas do KiCAD/packages3d/aaa_componentes/Capacitor_100nF_63V.wrl"
       (at (xyz 0.1 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -902,7 +902,7 @@
       (net 24 N-0000020))
     (pad 2 thru_hole oval (at 2.54 0 180) (size 1.27 2.54) (drill 0.889) (layers *.Cu *.Mask)
       (net 26 N-0000022))
-    (model Conector_pino_estampado_simples_180graus_10x.wrl
+    (model aaa_conectores/Conector_pino_estampado_simples_180graus_10x.wrl
       (at (xyz 0.05 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -947,12 +947,12 @@
       (net 37 N-0000052))
     (pad 2 thru_hole circle (at 2.54 0 90) (size 2.159 2.159) (drill 0.889) (layers *.Cu *.Mask)
       (net 2 +5V))
-    (model Barra_pino_estampado_simples_180graus_3x.wrl
+    (model aaa_conectores/Barra_pino_estampado_simples_180graus_3x.wrl
       (at (xyz 0.05 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model Jumper_3x_sem_aba.wrl
+    (model aaa_acessórios/Jumper_3x_sem_aba.wrl
       (at (xyz 0.15 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -979,7 +979,7 @@
       (net 27 N-0000024))
     (pad 2 thru_hole circle (at 7.62 0 180) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 8 /SCK))
-    (model Resistor_0,5W_1K.wrl
+    (model aaa_componentes/Resistor_0,5W_1K.wrl
       (at (xyz 0.15 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
@@ -1018,7 +1018,7 @@
       (net 7 /RX))
     (pad 2 thru_hole oval (at 2.54 0 180) (size 1.27 2.54) (drill 0.889) (layers *.Cu *.Mask)
       (net 11 /TX))
-    (model Conector_pino_estampado_simples_180graus_8x.wrl
+    (model aaa_conectores/Conector_pino_estampado_simples_180graus_8x.wrl
       (at (xyz 0.05 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1056,7 +1056,7 @@
       (net 42 Vin))
     (pad 2 thru_hole oval (at 2.54 0 180) (size 1.27 2.54) (drill 0.889) (layers *.Cu *.Mask)
       (net 13 GND))
-    (model Conector_pino_estampado_simples_180graus_8x.wrl
+    (model aaa_conectores/Conector_pino_estampado_simples_180graus_8x.wrl
       (at (xyz 0.05 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1091,7 +1091,7 @@
       (net 9 /SCL))
     (pad 2 thru_hole oval (at 2.54 0 180) (size 1.27 2.54) (drill 0.889) (layers *.Cu *.Mask)
       (net 10 /SDA))
-    (model Conector_pino_estampado_simples_180graus_6x.wrl
+    (model aaa_conectores/Conector_pino_estampado_simples_180graus_6x.wrl
       (at (xyz 0.05 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1118,7 +1118,7 @@
       (net 37 N-0000052))
     (pad 2 thru_hole circle (at 5.08 0 90) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 13 GND))
-    (model Capacitor_100nF_63V.wrl
+    (model "../../Bibliotecas do KiCAD/packages3d/aaa_componentes/Capacitor_100nF_63V.wrl"
       (at (xyz 0.1 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1150,7 +1150,7 @@
       (net 37 N-0000052))
     (pad - thru_hole circle (at 2.54 0 270) (size 2.159 2.159) (drill 0.889) (layers *.Cu *.Mask)
       (net 13 GND))
-    (model Capacitor_10uF_50V_horizontal.wrl
+    (model aaa_componentes/Capacitor_10uF_50V_horizontal.wrl
       (at (xyz 0.05 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
@@ -1178,7 +1178,7 @@
       (net 27 N-0000024))
     (pad K thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 13 GND))
-    (model LED3mmAM.wrl
+    (model aaa_opticos/LED3mmAM.wrl
       (at (xyz 0.05 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1206,7 +1206,7 @@
       (net 2 +5V))
     (pad K thru_hole circle (at 2.54 0 180) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 32 N-0000034))
-    (model LED3mmAM.wrl
+    (model aaa_opticos/LED3mmAM.wrl
       (at (xyz 0.05 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1234,7 +1234,7 @@
       (net 2 +5V))
     (pad K thru_hole circle (at 2.54 0 180) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 31 N-0000033))
-    (model LED3mmAM.wrl
+    (model aaa_opticos/LED3mmAM.wrl
       (at (xyz 0.05 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1262,7 +1262,7 @@
       (net 38 N-000006))
     (pad K thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask)
       (net 13 GND))
-    (model LED3mmVD.wrl
+    (model aaa_opticos/LED3mmVD.wrl
       (at (xyz 0.05 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1344,7 +1344,7 @@
       (net 22 N-0000018))
     (pad 14 thru_hole oval (at 33.02 0 180) (size 1.27 2.54) (drill 0.889) (layers *.Cu *.Mask)
       (net 24 N-0000020))
-    (model CI28DIP300.wrl
+    (model aaa_circuitos_integrados/CI28DIP300.wrl
       (at (xyz 0.65 0.15 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1423,7 +1423,7 @@
     (pad 1 thru_hole oval (at -2.54 0 90) (size 1.27 3.048) (drill 0.889) (layers *.Cu *.Mask)
       (net 42 Vin))
     (pad P thru_hole circle (at 0 -16.51 90) (size 5.08 5.08) (drill 2.794) (layers *.Cu *.Mask))
-    (model TO-220_horizontal_curto.wrl
+    (model aaa_componentes/TO-220_horizontal_curto.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 0))
