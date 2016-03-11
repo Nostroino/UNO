@@ -1,6 +1,5 @@
 EESchema Schematic File Version 2
 LIBS:Nostroino UNO
-LIBS:Nostroino UNO-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -896,7 +895,7 @@ U 1 1 53264F42
 P 7975 4450
 F 0 "X6" H 7975 4890 50  0000 C CNN
 F 1 "ANALOG IN" H 7975 3950 50  0000 C CNN
-F 2 "Nostroino_UNO:Conector_pino_estampado_simples_180graus_6x" H 7675 4400 60  0001 C CNN
+F 2 "" H 7675 4400 60  0000 C CNN
 F 3 "~" H 7675 4400 60  0000 C CNN
 	1    7975 4450
 	1    0    0    1   
