@@ -1,0 +1,12 @@
+(module Ilha_furo_120mils (layer F.Cu) (tedit 532B3C00)
+  (descr "Ilha furo, 120mils furo, 120x120mils corpo")
+  (tags Resistor)
+  (autoplace_cost180 10)
+  (fp_text reference X8 (at 0 0.127) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.1524)))
+  )
+  (fp_text value Fix1 (at 0 -2.667) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.1524)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask F.SilkS))
+)

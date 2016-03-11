@@ -1,6 +1,6 @@
-update=05/02/2015 13:44:56
+update=Sexta Feira, 11 '11e' Março '11e' 2016 'à22' 14:53:22
 version=1
-last_client=eeschema
+last_client=kicad
 [general]
 version=1
 [cvpcb]
@@ -57,10 +57,5 @@ LibName25=valves
 [eeschema]
 version=1
 LibDir=
-NetFmtName=PcbnewAdvanced
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=50
 [eeschema/libraries]
 LibName1=Nostroino UNO
