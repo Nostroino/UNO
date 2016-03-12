@@ -3,10 +3,14 @@
 ![alt text](board_back.png "Nostroino UNO (board back side)")
 
 
-Baseado no Arduino UNO é 100% compatível com esta plataforma.
+Esquemático do NostroINO. [[PDF](https://github.com/nostroino/UNO/blob/master/SCH%20Nostroino%20UNO.pdf)]
 
-Criado por André Augusto Andreis (<andreis.andre@gmail.com>) e [Diego Volpini](https://github.com/dvolpini) com o objetivo de disponibilizar uma alternativa de menor custo e de fácil montagem.
+No diretório [KiCad](https://github.com/nostroino/UNO/tree/master/KiCad) encontram-se todos os *Source Files* da placa disponíveis para edição. Recomenda-se utilizar a [versão 4.0.2 do KiCad](http://kicad-pcb.org/download/) ou posterior. Para faciitar dê um *Fork* em todo o diretório.
 
-Nostroino está sendo distribuído segundo os critérios da Open Source Hardware Association e de acordo com os atributos BY-SA da Creative Commons.
+Encorajamos o uso do material disponível! Só não esqueça de atribuir crédito, como preconiza a [CC BY-SA 3.0 BR](http://creativecommons.org/licenses/by-sa/3.0/br).
 
-A documentação completa pode ser encontrada em [https://github.com/nostroino/UNO](https://github.com/nostroino/UNO)
+Qualquer dúvida, sugestão... pode entrar em contato conosco.
+
+Um abraço!
+
+_André Augusto Andreis_ e _Diego Volpini_
