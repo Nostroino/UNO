@@ -13,4 +13,4 @@ Qualquer dúvida, sugestão... pode entrar em contato conosco.
 
 Um abraço!
 
-_André Augusto Andreis_ e _Diego Volpini_
+[_André Augusto Andreis_](andreis.andre@gmail.com ) e [_Diego Volpini_](diego.volpini@gmail.com)
